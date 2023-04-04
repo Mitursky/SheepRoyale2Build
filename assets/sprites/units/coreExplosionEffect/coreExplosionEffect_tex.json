@@ -1,0 +1,57 @@
+{
+  "name": "coreExplosionEffect",
+  "SubTexture": [
+    {
+      "name": "orange",
+      "x": 203,
+      "height": 200,
+      "y": 1,
+      "width": 200
+    },
+    {
+      "name": "yellow",
+      "x": 1,
+      "height": 200,
+      "y": 1,
+      "width": 200
+    },
+    {
+      "name": "little_star",
+      "x": 203,
+      "height": 200,
+      "y": 203,
+      "width": 200
+    },
+    {
+      "name": "big_star",
+      "x": 405,
+      "height": 200,
+      "y": 1,
+      "width": 200
+    },
+    {
+      "name": "grey_1",
+      "x": 1,
+      "height": 200,
+      "y": 203,
+      "width": 200
+    },
+    {
+      "name": "grey_2",
+      "x": 405,
+      "height": 200,
+      "y": 203,
+      "width": 200
+    },
+    {
+      "name": "grey_3",
+      "x": 607,
+      "height": 200,
+      "y": 1,
+      "width": 200
+    }
+  ],
+  "imagePath": "coreExplosionEffect.png",
+  "height": 405,
+  "width": 809
+}
