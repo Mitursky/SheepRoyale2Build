@@ -1,0 +1,55 @@
+
+coreExplosionEffect.png
+size: 770,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_star
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+grey_1
+  rotate: true
+  xy: 668, 16
+  size: 80, 74
+  orig: 200, 200
+  offset: 17, 94
+  index: -1
+grey_2
+  rotate: false
+  xy: 668, 98
+  size: 100, 104
+  orig: 200, 200
+  offset: 91, 9
+  index: -1
+grey_3
+  rotate: false
+  xy: 538, 21
+  size: 46, 51
+  orig: 200, 200
+  offset: 138, 127
+  index: -1
+little_star
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+orange
+  rotate: true
+  xy: 406, 44
+  size: 158, 130
+  orig: 200, 200
+  offset: 35, 25
+  index: -1
+yellow
+  rotate: false
+  xy: 538, 74
+  size: 128, 128
+  orig: 200, 200
+  offset: 55, 31
+  index: -1

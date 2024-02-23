@@ -1,0 +1,125 @@
+
+beeWait.png
+size: 104,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_antennae
+  rotate: true
+  xy: 2, 12
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+L_eyes
+  rotate: true
+  xy: 81, 139
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+R_antennae
+  rotate: true
+  xy: 27, 5
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+R_eyes
+  rotate: true
+  xy: 51, 88
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+arm_1
+  rotate: true
+  xy: 48, 36
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: true
+  xy: 81, 28
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+arm_3
+  rotate: false
+  xy: 2, 43
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+arm_4
+  rotate: true
+  xy: 2, 100
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+body_wait
+  rotate: true
+  xy: 2, 198
+  size: 87, 97
+  orig: 87, 97
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 81, 80
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+eyes_close
+  rotate: true
+  xy: 66, 29
+  size: 57, 13
+  orig: 57, 13
+  offset: 0, 0
+  index: -1
+eyes_close_3
+  rotate: true
+  xy: 99, 20
+  size: 58, 2
+  orig: 58, 2
+  offset: 0, 0
+  index: -1
+eyes_close_4
+  rotate: true
+  xy: 74, 88
+  size: 57, 5
+  orig: 57, 5
+  offset: 0, 0
+  index: -1
+eyes_close_white
+  rotate: true
+  xy: 40, 51
+  size: 47, 6
+  orig: 47, 6
+  offset: 0, 0
+  index: -1
+mouth_wait
+  rotate: false
+  xy: 52, 2
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+wing_up
+  rotate: false
+  xy: 2, 147
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+wing_up_2
+  rotate: false
+  xy: 2, 147
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
