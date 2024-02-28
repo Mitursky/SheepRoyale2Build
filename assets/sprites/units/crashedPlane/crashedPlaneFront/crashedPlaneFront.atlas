@@ -1,0 +1,20 @@
+
+crashedPlaneFront.png
+size: 204,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front
+  rotate: false
+  xy: 2, 2
+  size: 100, 96
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rrr
+  rotate: true
+  xy: 104, 3
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1

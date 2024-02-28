@@ -1,0 +1,19 @@
+crashedPlaneBack.png
+size: 192,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 2, 2
+  size: 99, 91
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rrr
+  rotate: false
+  xy: 95, 3
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
