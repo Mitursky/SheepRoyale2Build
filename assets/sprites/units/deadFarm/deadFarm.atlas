@@ -1,0 +1,20 @@
+
+deadFarm.png
+size: 293,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+berdd
+  rotate: false
+  xy: 202, 95
+  size: 89, 100
+  orig: 100, 100
+  offset: 5, 0
+  index: -1
+sad
+  rotate: false
+  xy: 2, 2
+  size: 198, 193
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
