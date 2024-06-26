@@ -1,0 +1,13 @@
+
+invisibleSheep.png
+size: 78,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gost
+  rotate: false
+  xy: 2, 2
+  size: 74, 100
+  orig: 100, 100
+  offset: 12, 0
+  index: -1
