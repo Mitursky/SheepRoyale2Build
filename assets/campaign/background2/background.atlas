@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 570,1003
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Одиночная_Кампания болото
+  rotate: false
+  xy: 2, 2
+  size: 566, 999
+  orig: 750, 1000
+  offset: 71, 0
+  index: -1

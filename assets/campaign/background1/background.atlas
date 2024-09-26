@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 649,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Одиночная_Кампания поле
+  rotate: false
+  xy: 2, 2
+  size: 645, 904
+  orig: 750, 1000
+  offset: 105, 61
+  index: -1

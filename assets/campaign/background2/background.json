@@ -1,0 +1,22 @@
+{
+  "skeleton": { "hash": "hmFh5DPb16feV22/vgCgSl5XvJI", "spine": "3.8.75" },
+  "bones": [{ "name": "root" }],
+  "slots": [
+    {
+      "name": "Одиночная_Кампания болото",
+      "bone": "root",
+      "attachment": "Одиночная_Кампания болото"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Одиночная_Кампания болото": {
+          "Одиночная_Кампания болото": { "width": 750, "height": 1000 }
+        }
+      }
+    }
+  ],
+  "animations": { "animation": {} }
+}

@@ -1,0 +1,22 @@
+{
+  "skeleton": { "hash": "9EgWmfAwwY/S9uuseeSyPKOTQdM", "spine": "3.8.75" },
+  "bones": [{ "name": "root" }],
+  "slots": [
+    {
+      "name": "Одиночная_Кампания поле",
+      "bone": "root",
+      "attachment": "Одиночная_Кампания поле"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Одиночная_Кампания поле": {
+          "Одиночная_Кампания поле": { "width": 750, "height": 1000 }
+        }
+      }
+    }
+  ],
+  "animations": { "animation": {} }
+}
